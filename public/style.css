@@ -1,0 +1,49 @@
+
+span#s1{
+    font-size: 24px;
+}
+span#s2{
+    font-size: 48px;
+    color: rgb(216, 0, 0);
+}
+span#s3{
+    font-size: 48px;
+    color: rgb(216, 0, 0);
+}
+
+body {
+    background: rgb(245, 245, 245);
+    color: #333333;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+button{
+    font-family: cursive;
+    font-size: 18px;
+}
+
+input{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.list_items{
+    list-style: none;
+}

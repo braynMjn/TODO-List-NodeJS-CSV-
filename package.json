@@ -1,0 +1,27 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "TODO app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Biren",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csv-parser": "^2.3.0",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.5.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "fast-csv": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
