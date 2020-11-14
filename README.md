@@ -8,4 +8,4 @@
 
 ***Note: NodeJS must be installed for this to work...*** 
 
-![Screenshot](Screenshot.JPG)
+![Screenshot](Screenshot.jpg)
